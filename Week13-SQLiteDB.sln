@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week13-SQLiteDB", "Week13-SQLiteDB\Week13-SQLiteDB.csproj", "{65460EC4-0C39-47F1-A521-DD5AD4258716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65460EC4-0C39-47F1-A521-DD5AD4258716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65460EC4-0C39-47F1-A521-DD5AD4258716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65460EC4-0C39-47F1-A521-DD5AD4258716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65460EC4-0C39-47F1-A521-DD5AD4258716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {072B5103-4146-48FD-BD46-29B4AFA66897}
+	EndGlobalSection
+EndGlobal
